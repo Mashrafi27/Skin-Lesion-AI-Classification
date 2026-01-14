@@ -1,4 +1,4 @@
-# CV8501 Assignment 2: Skin Lesion Classification with CNNs and VLMs (LLaVA-Med)
+# Skin Lesion Classification with CNNs & Vision-Language Models
 
 This repository contains code and experiments for **skin lesion classification** on the **HAM10000** dataset.  
 We compare:
